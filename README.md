@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sufiyanmanihar/DSA/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/sufiyanmanihar/DSA/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sufiyanmanihar/DSA/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sufiyanmanihar/DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sufiyanmanihar/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
