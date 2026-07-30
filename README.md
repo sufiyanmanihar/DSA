@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sufiyanmanihar/DSA/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/sufiyanmanihar/DSA/tree/master/0412-fizz-buzz) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sufiyanmanihar/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/sufiyanmanihar/DSA/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sufiyanmanihar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sufiyanmanihar/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
