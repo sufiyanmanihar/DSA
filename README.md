@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sufiyanmanihar/DSA/tree/master/0412-fizz-buzz) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sufiyanmanihar/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
