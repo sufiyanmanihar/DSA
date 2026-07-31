@@ -44,6 +44,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sufiyanmanihar/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sufiyanmanihar/DSA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sufiyanmanihar/DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/sufiyanmanihar/DSA/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sufiyanmanihar/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/sufiyanmanihar/DSA/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sufiyanmanihar/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sufiyanmanihar/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
