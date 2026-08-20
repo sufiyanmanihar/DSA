@@ -76,4 +76,8 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sufiyanmanihar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sufiyanmanihar/DSA/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/sufiyanmanihar/DSA/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sufiyanmanihar/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
