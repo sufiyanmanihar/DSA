@@ -79,6 +79,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/sufiyanmanihar/DSA/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/sufiyanmanihar/DSA/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sufiyanmanihar/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sufiyanmanihar/DSA/tree/master/1683-invalid-tweets) |
