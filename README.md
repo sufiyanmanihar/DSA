@@ -82,6 +82,7 @@
 | [0197-rising-temperature](https://github.com/sufiyanmanihar/DSA/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/sufiyanmanihar/DSA/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sufiyanmanihar/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/sufiyanmanihar/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/sufiyanmanihar/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sufiyanmanihar/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
