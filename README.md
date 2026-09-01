@@ -82,6 +82,7 @@
 | [0197-rising-temperature](https://github.com/sufiyanmanihar/DSA/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sufiyanmanihar/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/sufiyanmanihar/DSA/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/sufiyanmanihar/DSA/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/sufiyanmanihar/DSA/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sufiyanmanihar/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/sufiyanmanihar/DSA/tree/master/1661-average-time-of-process-per-machine) |
